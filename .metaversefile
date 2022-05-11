@@ -1,0 +1,10 @@
+{
+  "name": "grid",
+  "start_url": "grid.glb",
+  "components": [
+    {
+      "key": "vincibility",
+      "value": "invincible"
+    }
+  ]
+}
